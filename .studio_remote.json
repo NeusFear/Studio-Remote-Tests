@@ -1,0 +1,13 @@
+[
+  {
+    "version": 1,
+    "uuid": "ea873461-afae-4bfd-9017-e00ee9554a8a",
+    "name": "test_model",
+    "model": "assets/models/test_model/test_model.dcm",
+    "animationFolder": "assets/animations/test_model/",
+    "texture": {
+      "baseFolder": "assets/textures/test_model/",
+      "groups": []
+    }
+  }
+]
