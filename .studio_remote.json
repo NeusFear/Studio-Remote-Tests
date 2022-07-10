@@ -8,6 +8,33 @@
     "texture": {
       "baseFolder": "assets/textures/test_model/",
       "groups": []
-    }
+    },
+    "showcaseViews": [
+      {
+        "identifier": "517931e3-f618-4687-8c5e-a7ca0abc7cc2",
+        "name": "New View",
+        "ambientLight": {
+          "colour": "#ffffff",
+          "intensity": 1
+        },
+        "pose": {
+          "position": {},
+          "rotation": {}
+        },
+        "camera": {
+          "position": [
+            3.2504207198316073,
+            3.2086161495528764,
+            1.1264728795003403
+          ],
+          "target": [
+            0.5,
+            0,
+            0.5
+          ]
+        },
+        "lights": []
+      }
+    ]
   }
 ]
