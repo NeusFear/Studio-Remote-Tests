@@ -7,7 +7,15 @@
     "animationFolder": "assets/animations/test_model/",
     "texture": {
       "baseFolder": "assets/textures/test_model/",
-      "groups": []
+      "groups": [
+        {
+          "groupName": "Default",
+          "folderName": "",
+          "textures": [
+            "testing"
+          ]
+        }
+      ]
     },
     "showcaseViews": [
       {
