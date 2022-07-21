@@ -35,6 +35,7 @@
         },
         "lights": []
       }
-    ]
+    ],
+    "soundFolder": "assets/sounds/entities/test_model"
   }
 ]
